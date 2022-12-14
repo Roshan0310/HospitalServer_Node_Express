@@ -1,0 +1,22 @@
+[
+  {
+    "HospitalName": "P K Das Hospital",
+    "PatientCount": "1500",
+    "HospitalLocation": "Palakkad"
+  },
+  {
+    "HospitalName": "Govt Hospital",
+    "PatientCount": "1000",
+    "HospitalLocation": "Calicut"
+  },
+  {
+    "HospitalName": "Al Shifa Hospital",
+    "PatientCount": "2000",
+    "HospitalLocation": "Malappuram"
+  },
+  {
+    "HospitalName": "Medical College Hospital",
+    "PatientCount": "1600",
+    "HospitalLocation": "PATHANAMTHITTA"
+  }
+]
